@@ -1,7 +1,13 @@
-In The Name Of God
-This is a simple project in python you can use for learning python better and better.
-This project only work by python3.x 
-I use tkinter module for the graphical user interface (GUI)
-you can follow me on this page:
-http://nikparvar.ir/n60644/
-written by MohsenGhasemi;
+
+This is a simple project written by python for learning programing for beginners.
+
+# Usage
+
+1. In command line wirte `python3 main.py`. play game and learn python better and better.
+2. For windows users I export this project to an `.exe` file with `pyinstaller` module. It's more "User Friendly" than previous way.
+
+# License 
+
+This project is licensed under the terms of the MIT license.
+
+You can follow me on this link: http://nikparvar.ir/n60644/
